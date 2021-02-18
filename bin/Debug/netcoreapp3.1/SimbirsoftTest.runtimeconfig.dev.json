@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Lev\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Lev\\.nuget\\packages",
+      "D:\\Progress\\ToolboxNuGetPackages"
+    ]
+  }
+}
